@@ -1,7 +1,7 @@
 # 👋 Welkom op mijn GitHub-profiel
 
 Ik ben een **student software development** met een passie voor **frontend development** en het schrijven van **nette, gestructureerde code**.  
-Ik werk graag aan projecten waarin logica, design en gebruiksvriendelijkheid samenkomen.
+Ik werk graag aan projecten waarin logica, design, gebruiksvriendelijkheid en accesibility samenkomen.
 
 ---
 
